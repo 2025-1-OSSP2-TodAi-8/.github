@@ -102,7 +102,7 @@
 - 사용자에게 연동 요청 및 연동 수락/거절 알림, 연결된 보호자 목록 관리
 - 연동된 사용자 감정 변화 추이 확인 가능
 
-
+<img src="https://github.com/user-attachments/assets/d6f041cb-8327-409c-9a79-f94ee4757d86" width="250" height="500" />
 
 ---
 
@@ -116,6 +116,8 @@
 ---
 
 ### 💌 메세지 전송
+
+- 연동된 사용자에게 응원의 메세지 전송 가능
 
 <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/137a779b-2d4c-49c9-884c-b87f076a2696" />
 
