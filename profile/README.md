@@ -149,7 +149,7 @@
 - Django, Django REST Framework, Spring Boot
 
 **AI**
-- KoBERT, Whisper, Wav2Vec2
+- PyTorch, TensorFlow (KoBERT, Whisper, Wav2Vec2)
 
 **Database**
 - PostgreSQL
