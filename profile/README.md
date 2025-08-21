@@ -159,15 +159,15 @@
 
 ---
 
-## 👨‍💻 팀원 소개
+## 👨‍💻 팀원 (Team)
 
 | 이름   | 포지션        | GitHub |
 |--------|---------------|--------|
 | 이재혁 | Backend, AI   | [@Hyuk-II](https://github.com/Hyuk-II) |
-| 이채원 | Backend       | llcc-ww |
-| 김태이 | Frontend      | EH-OI |
-| 서예원 | Frontend      | yewonida |
-| 박현서 | AI            | hyunseo0524 |
+| 이채원 | Backend       | llcc-ww(https://github.com/llcc-ww) |
+| 김태이 | Frontend      | EH-OI(https://github.com/EH-OI) |
+| 서예원 | Frontend      | yewonida(https://github.com/yewonida) |
+| 박현서 | AI            | hyunseo0524(https://github.com/hyunseo0524) |
 
 ---
 
