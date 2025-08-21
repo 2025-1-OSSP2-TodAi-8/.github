@@ -80,6 +80,8 @@
 
 <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/0170a8a2-47d6-41bb-87fc-7ea04f9737c4" />
 
+<img width="214" height="450" alt="Image" src="https://github.com/user-attachments/assets/035e2bc5-b048-4264-b735-d23e239b742c" />
+
 ---
 
 ### 👤 마이페이지
@@ -88,6 +90,8 @@
 <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/55104cf2-bea4-48cd-826f-717ae8383adf" />
 
 <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/42d988b4-12eb-4062-97fc-f63e5dd821c6" />
+
+![Image](https://github.com/user-attachments/assets/2d10c18f-126b-44a9-9e01-c0ea90d0a1ed)
 
 - **전체/일부 공개** 등 **프라이버시 보호** 옵션 제공
 
