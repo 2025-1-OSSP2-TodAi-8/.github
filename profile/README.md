@@ -146,16 +146,16 @@
 - React Native
 
 **Backend**
-- Django, Django REST Framework
+- Django, Django REST Framework, Spring Boot
 
 **AI**
 - KoBERT, Whisper, Wav2Vec2
 
 **Database**
-- _(TBD)_
+- PostgreSQL
 
 **Deployment**
-- _(TBD)_
+- Cloudtype, Local deployment
 
 ---
 
