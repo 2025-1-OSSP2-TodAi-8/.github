@@ -89,9 +89,7 @@
 
 <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/55104cf2-bea4-48cd-826f-717ae8383adf" />
 
-<img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/42d988b4-12eb-4062-97fc-f63e5dd821c6" />
-
-![Image](https://github.com/user-attachments/assets/2d10c18f-126b-44a9-9e01-c0ea90d0a1ed)
+<img src="[https://github.com/user-attachments/assets/a9b43f4a-672b-432a-a08d-744079040e1a](https://github.com/user-attachments/assets/2d10c18f-126b-44a9-9e01-c0ea90d0a1ed)" width="250" height="500" />
 
 - **전체/일부 공개** 등 **프라이버시 보호** 옵션 제공
 
