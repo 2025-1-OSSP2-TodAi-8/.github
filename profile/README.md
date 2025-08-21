@@ -102,7 +102,7 @@
 - 사용자에게 연동 요청 및 연동 수락/거절 알림, 연결된 보호자 목록 관리
 - 연동된 사용자 감정 변화 추이 확인 가능
 
-<img width="1500" height="844" alt="Image" src="https://github.com/user-attachments/assets/9902cc4e-a793-44a0-8c35-e337c2ad47b0" />
+
 
 ---
 
