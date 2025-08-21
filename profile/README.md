@@ -49,9 +49,9 @@
 ### 📝 회원가입 및 로그인
 - 닉네임 | 아이디 | 비밀번호 | 이메일 | 생년월일 | 사용자 유형 | 성별
 
-![Image](https://github.com/user-attachments/assets/a9b43f4a-672b-432a-a08d-744079040e1a)
+<img src="[./docs/images/demo.gif](https://github.com/user-attachments/assets/a9b43f4a-672b-432a-a08d-744079040e1a)" width="250" height="500" alt="앱 데모" />
 
-<img width="720" height="1547" alt="Image" src="https://github.com/user-attachments/assets/2d9d222b-b408-43c8-b232-a0cb6ea5def5" />
+<img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/2d9d222b-b408-43c8-b232-a0cb6ea5def5" />
 
 ---
 ## 🔵 사용자 화면
@@ -86,9 +86,9 @@
 ---
 
 ### 👤 마이페이지
-<img width="718" height="1538" alt="Image" src="https://github.com/user-attachments/assets/60141984-9578-474a-a465-3d7eca508a3d" />
+<img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/60141984-9578-474a-a465-3d7eca508a3d" />
 
-<img width="701" height="1542" alt="Image" src="https://github.com/user-attachments/assets/55104cf2-bea4-48cd-826f-717ae8383adf" />
+<img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/55104cf2-bea4-48cd-826f-717ae8383adf" />
 
 ---
 ## 🔵 보호자 화면
@@ -115,7 +115,7 @@
 
 ### 💌 메세지 전송
 
-<img width="714" height="1540" alt="Image" src="https://github.com/user-attachments/assets/137a779b-2d4c-49c9-884c-b87f076a2696" />
+<img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/137a779b-2d4c-49c9-884c-b87f076a2696" />
 
 ---
 
