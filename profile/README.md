@@ -71,7 +71,7 @@
 - 날짜 선택 → **메모 작성** 또는 **상세 분석 페이지**로 이동
 - 장기적인 **감정 흐름 추적** 지원
 
-<img width="720" height="1538" alt="Image" src="https://github.com/user-attachments/assets/a586caf8-f856-44e9-b9d2-8e9250360266" />
+<img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/a586caf8-f856-44e9-b9d2-8e9250360266" />
 
 ---
 
