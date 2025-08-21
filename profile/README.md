@@ -13,9 +13,7 @@
 - [🎯 프로젝트 목표 (Goal)](#-프로젝트-목표-goal)
 - [✨ 주요 기능 (Features)](#-주요-기능-features)
 - [🛠️ 기술 스택 (Tech Stack)](#️-기술-스택-tech-stack)
-- [📷 스크린샷 (Screenshots)](#-스크린샷-screenshots)
 - [📂 프로젝트 구조 (예시)](#-프로젝트-구조-예시)
-- [🧪 개발 로드맵 (Roadmap)](#-개발-로드맵-roadmap)
 - [👨‍💻 팀원 (Team)](#-팀원-team)
 - [🔐 라이선스](#-라이선스)
 
