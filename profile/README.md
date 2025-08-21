@@ -80,8 +80,7 @@
 - **레이더 차트**로 6가지 감정 분포를 직관적으로 파악
 - **즐겨찾기**로 중요한 기록 보관, **스크린샷 저장/공유**
 
-> _Screenshots_  
-> ![일별 상세 리포트](./docs/images/daily_report.png)
+<img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/0170a8a2-47d6-41bb-87fc-7ea04f9737c4" />
 
 ---
 
@@ -89,6 +88,8 @@
 <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/60141984-9578-474a-a465-3d7eca508a3d" />
 
 <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/55104cf2-bea4-48cd-826f-717ae8383adf" />
+
+<img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/42d988b4-12eb-4062-97fc-f63e5dd821c6" />
 
 ---
 ## 🔵 보호자 화면
@@ -98,8 +99,7 @@
 - 마이페이지에서 **연동 요청 수락/거절**, 연결된 보호자 **목록 관리**
 - **전체/일부 공개** 등 **프라이버시 보호** 옵션 제공
 
-> _Screenshots_  
-> ![마이페이지 및 연동 관리](./docs/images/guardian_link.png)
+<img width="1500" height="844" alt="Image" src="https://github.com/user-attachments/assets/9902cc4e-a793-44a0-8c35-e337c2ad47b0" />
 
 ---
 
