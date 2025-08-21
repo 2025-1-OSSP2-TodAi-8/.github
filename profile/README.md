@@ -80,7 +80,7 @@
 
 <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/0170a8a2-47d6-41bb-87fc-7ea04f9737c4" />
 
-<img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/035e2bc5-b048-4264-b735-d23e239b742c" />
+<img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/505b8903-5e60-416b-9aad-a5bcb69b9444" />
 
 ---
 
