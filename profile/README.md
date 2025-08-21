@@ -146,11 +146,11 @@
 
 | 이름   | 포지션        | GitHub |
 |--------|---------------|--------|
-| 이재혁 | Backend, AI   | [GitHub ID] |
-| 김태이 | Frontend      | [GitHub ID] |
-| 박현서 | AI            | [GitHub ID] |
-| 서예원 | Frontend      | [GitHub ID] |
-| 이채원 | Backend       | [GitHub ID] |
+| 이재혁 | Backend, AI   | [Hyuk-II] |
+| 이채원 | Backend       | [llcc-ww] |
+| 김태이 | Frontend      | [EH-OI] |
+| 서예원 | Frontend      | [yewonida] |
+| 박현서 | AI            | [hyunseo0524] |
 
 ---
 
