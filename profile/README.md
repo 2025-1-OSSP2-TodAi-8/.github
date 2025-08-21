@@ -49,12 +49,12 @@
 ### 📝 회원가입 및 로그인
 - 닉네임 | 아이디 | 비밀번호 | 이메일 | 생년월일 | 사용자 유형 | 성별
 
-> _Screenshots_  
-> ![로그인 및 회원가입 화면](./docs/images/auth.png)
+![Image](https://github.com/user-attachments/assets/a9b43f4a-672b-432a-a08d-744079040e1a)
+
+<img width="720" height="1547" alt="Image" src="https://github.com/user-attachments/assets/2d9d222b-b408-43c8-b232-a0cb6ea5def5" />
 
 ---
 ## 🔵 사용자 화면
----
 
 ### 🎙️ 음성 녹음 및 AI 감정 분석
 - 메인 화면의 **마이크 버튼**으로 간편 녹음
@@ -71,8 +71,7 @@
 - 날짜 선택 → **메모 작성** 또는 **상세 분석 페이지**로 이동
 - 장기적인 **감정 흐름 추적** 지원
 
-> _Screenshots_  
-> ![감정 캘린더](./docs/images/calendar.png)
+<img width="720" height="1538" alt="Image" src="https://github.com/user-attachments/assets/a586caf8-f856-44e9-b9d2-8e9250360266" />
 
 ---
 
@@ -87,10 +86,12 @@
 ---
 
 ### 👤 마이페이지
+<img width="718" height="1538" alt="Image" src="https://github.com/user-attachments/assets/60141984-9578-474a-a465-3d7eca508a3d" />
+
+<img width="701" height="1542" alt="Image" src="https://github.com/user-attachments/assets/55104cf2-bea4-48cd-826f-717ae8383adf" />
 
 ---
 ## 🔵 보호자 화면
----
 
 ### 🤝 보호자 대시보드
 - 보호자 계정과 **연동**하여 감정 기록 **공유**
@@ -113,6 +114,8 @@
 ---
 
 ### 💌 메세지 전송
+
+<img width="714" height="1540" alt="Image" src="https://github.com/user-attachments/assets/137a779b-2d4c-49c9-884c-b87f076a2696" />
 
 ---
 
