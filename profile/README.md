@@ -49,7 +49,7 @@
 ### 📝 회원가입 및 로그인
 - 닉네임 | 아이디 | 비밀번호 | 이메일 | 생년월일 | 사용자 유형 | 성별
 
-<img src="[./docs/images/demo.gif](https://github.com/user-attachments/assets/a9b43f4a-672b-432a-a08d-744079040e1a)" width="250" height="500" alt="앱 데모" />
+<img src="https://github.com/user-attachments/assets/a9b43f4a-672b-432a-a08d-744079040e1a" width="250" height="500" />
 
 <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/2d9d222b-b408-43c8-b232-a0cb6ea5def5" />
 
