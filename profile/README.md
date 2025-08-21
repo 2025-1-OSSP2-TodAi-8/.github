@@ -3,7 +3,7 @@
 > 바쁜 일상 속, **말하기**만으로 감정을 기록하고 AI로 스스로를 더 깊이 이해하세요.
 
 <p align="center">
-  <img src="./docs/cover.png" alt="TodAi Cover (placeholder)" width="820" />
+  <img width="1433" height="802" alt="Image" src="https://github.com/user-attachments/assets/bc148cf7-6f8a-4813-9b91-b8c80ad7c47e" />
 </p>
 
 ---
