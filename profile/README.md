@@ -85,13 +85,14 @@
 ---
 
 ### 👤 마이페이지
+- 사용자 정보, 연동된 보호자 목록, 받은 메세지 확인 가능
+- 전체/일부 공개 등 프라이버시 보호 옵션 제공
+
 <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/60141984-9578-474a-a465-3d7eca508a3d" />
 
 <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/55104cf2-bea4-48cd-826f-717ae8383adf" />
 
 <img src="https://github.com/user-attachments/assets/2d10c18f-126b-44a9-9e01-c0ea90d0a1ed" width="250" height="500" />
-
-- **전체/일부 공개** 등 **프라이버시 보호** 옵션 제공
 
 ---
 ## 🔵 보호자 화면
@@ -110,8 +111,7 @@
 - 사용자가 4일 이상 연속 부정 감정일 경우 자동 알림
 - 공개 범위가 전체일 때, 일기 전문 & 상세 감정 차트 열람 가능
 
-> _Screenshots_  
-> ![보호자 모니터링](./docs/images/guardian_monitor.png)
+<img src="https://github.com/user-attachments/assets/9340cdca-a3b0-44b2-be4e-b2c0dfd7d55b" width="250" height="500" />
 
 ---
 
